@@ -1,4 +1,7 @@
 name: qan
+channels:
+  - anaconda
+  - conda-forge
 dependencies:
   - python=3.6.5
   - rdkit::rdkit
